@@ -1,0 +1,1 @@
+An open, containerization platform for developers and sysadmins to build, ship, and run distributed applications. It enables to package and deploy an application or service as an isolated unit containing all of its dependencies  whether on laptops, data center VMs, or the cloud.
